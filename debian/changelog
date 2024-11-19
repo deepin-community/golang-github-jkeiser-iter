@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-jkeiser-iter (0.0~git20200628.c8aa0ae-2) unstable; urgency=medium
 
-  * Initial release
+  * Source only upload for testing migration
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Mathias Gibbens <mathias@calenhad.com>  Thu, 25 Nov 2021 11:28:30 +0100
+
+golang-github-jkeiser-iter (0.0~git20200628.c8aa0ae-1) unstable; urgency=medium
+
+  * Initial release (Closes: #998123)
+
+ -- Mathias Gibbens <mathias@calenhad.com>  Sat, 30 Oct 2021 19:16:12 +0000
